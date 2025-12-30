@@ -1,12 +1,14 @@
-Changing something
+
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: peterju2[at]oregonstate.edu
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Ocean, Earth & Atmospheric Science, Oregon State University, expected 2026
+M.A., Teaching, secondary science, Seattle University, 2016—2017.\
+B.S., Oceanography, University of Washington, 2012—2015.
+B.A., Political science, University of Washington, 2012-2015
 
 #### Research Interests
 Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
