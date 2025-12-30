@@ -1,3 +1,4 @@
+I am a 
 
 
 #### Contact
@@ -11,5 +12,5 @@ B.S., Oceanography, University of Washington, 2012—2015\
 B.A., Political science, University of Washington, 2012-2015
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+I use ice cores from Antarctica to study periods of Earth's past that were warmer than today. Specifically, I am interested in furthering our understanding of Earth's greenhouse gas history, and the biogeochemical cycles that drive atmospheric changes. 
 
