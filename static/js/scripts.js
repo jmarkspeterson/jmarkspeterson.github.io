@@ -50,16 +50,24 @@ window.addEventListener('DOMContentLoaded', event => {
     // Marked
     marked.use({ mangle: false, headerIds: false })
     section_names.forEach((name, idx) => {
-        fetch(content_dir + name + '.md')
-            .then(response => response.text())
+        const url = content_dir + name + '.md'
+        console.log(`Fetching content for section: ${name} -> ${url}`)
+        fetch(url)
+            .then(response => {
+                if (!response.ok) throw new Error(`HTTP ${response.status} fetching ${url}`)
+                return response.text()
+            })
             .then(markdown => {
+                console.log(`Loaded ${name}.md (${markdown.length} chars)`)
                 const html = marked.parse(markdown);
-                document.getElementById(name + '-md').innerHTML = html;
+                const el = document.getElementById(name + '-md')
+                if (!el) throw new Error(`Missing element: ${name}-md`)
+                el.innerHTML = html;
             }).then(() => {
                 // MathJax
-                MathJax.typeset();
+                if (window.MathJax && MathJax.typeset) MathJax.typeset();
             })
-            .catch(error => console.log(error));
+            .catch(error => console.log(`Error loading section ${name}:`, error));
     })
 
 }); 
