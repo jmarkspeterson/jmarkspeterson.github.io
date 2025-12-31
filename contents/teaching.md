@@ -1,4 +1,4 @@
-#### University-level
+#### University level
 
 - Teaching assistant, OEAS 540: Biogeochemical Earth Graduate level course providing an overview of Earth’s main biogeochemical cycles, considering them at different times in Earth’s history and on regional to global scales
 - Teaching assistant, ATS 201: Climate Science Introduction to climate science, radiation, Earth’s energy budget, box models, climate forcings and feedbacks
