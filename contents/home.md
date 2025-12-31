@@ -1,5 +1,5 @@
-I am a 
 
+paleoclimate, isotope geochemistry, greenhouse gas history, oceanography
 
 #### Contact
 
