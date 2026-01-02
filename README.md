@@ -1,9 +1,9 @@
 
 
-![Github Forks](https://img.shields.io/github/forks/senli1073/academic-homepage-template?style=flat)
-![Github Stars](https://img.shields.io/github/stars/senli1073/academic-homepage-template?style=flat)
-![License](https://img.shields.io/github/license/senli1073/academic-homepage-template)
-![Last Commit](https://img.shields.io/github/last-commit/senli1073/academic-homepage-template)
+![Github Forks](https://img.shields.io/github/forks/jmarkspeterson/academic-homepage-template?style=flat)
+![Github Stars](https://img.shields.io/github/stars/jmarkspeterson/academic-homepage-template?style=flat)
+![License](https://img.shields.io/github/license/jmarkspeterson/academic-homepage-template)
+![Last Commit](https://img.shields.io/github/last-commit/jmarkspeterson/academic-homepage-template)
 
 # A simple Github Pages template for personal academic websites.
 
